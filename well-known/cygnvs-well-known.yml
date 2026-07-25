@@ -1,0 +1,22 @@
+generated: '2026-07-18'
+method: searched
+source: https://cygnvs.com/.well-known/
+host: https://cygnvs.com
+documents:
+  - path: /.well-known/security.txt          # RFC 9116
+    status: 200
+    file: cygnvs-security.txt
+  - path: /.well-known/openid-configuration   # OIDC discovery
+    status: 404
+  - path: /.well-known/oauth-authorization-server  # RFC 8414
+    status: 404
+  - path: /.well-known/api-catalog            # RFC 9727
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+notes: >-
+  Only a public RFC 9116 security.txt is published at the corporate host. CYGNVS
+  is an out-of-band incident-response SaaS with no public API/developer portal;
+  the authenticated application lives on regional out-of-band domains
+  (cygnvs.net / cygnvs-eu.net / cygnvs-uk.net / cygnvs-ca.net / cygnvs-au.net /
+  cygnvs-in.net) rather than on api.cygnvs.com (no such host resolves).

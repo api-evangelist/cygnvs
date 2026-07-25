@@ -1,7 +1,32 @@
 aid: cygnvs
 name: CYGNVS
-description: CYGNVS is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  CYGNVS (an acronym for "CYber GuidaNce Virtual Space") is a Silicon Valley
+  SaaS company that operates an out-of-band command center for cyber crisis
+  preparedness and incident response. The platform runs independently of an
+  organization's corporate infrastructure so that response teams — security,
+  legal, executives, insurers, and external stakeholders — can coordinate
+  securely even when internal systems are compromised or down, preserving legal
+  privilege and chain of custody. CYGNVS provides guided playbooks, tabletop
+  exercises, regulated-response execution with regulatory reporting templates
+  across many jurisdictions, and bundles CISO personal-liability insurance
+  underwritten by AIG. Founded in 2020 by Arvind Parthasarathi, the company
+  raised a $55M Series A led by Andreessen Horowitz in January 2023. This
+  API Evangelist profile was enriched from public surfaces; CYGNVS exposes no
+  public developer API — the application is delivered as a secured out-of-band
+  product across regional domains.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cygnvs.com/wp-content/themes/cygnvs/assets/img/home/logo-mark_07.svg
 url: https://raw.githubusercontent.com/api-evangelist/cygnvs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +36,61 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Cybersecurity
+- Incident Response
+- Cyber Crisis Management
+- Security
+- Governance Risk Compliance
+- SaaS
+- Business
 apis: []
+common:
+- type: Website
+  url: https://cygnvs.com/
+- type: Pricing
+  url: https://cygnvs.com/pricing/
+- type: Support
+  url: https://helpdesk.cygnvs.com/
+- type: HelpCenter
+  url: https://helpdesk.cygnvs.com/
+- type: Blog
+  url: https://www.cygnvs.com/resources
+- type: Login
+  url: https://cygnvs.net/signIn.html
+- type: SignUp
+  url: https://cygnvs.com/request-a-demo
+- type: TermsOfService
+  url: https://cygnvs.com/terms
+- type: PrivacyPolicy
+  url: https://cygnvs.com/privacy
+- type: StatusPage
+  url: https://status.cygnvs.com/
+- type: TrustCenter
+  url: https://trust.cygnvs.com/
+- type: Compliance
+  url: https://trust.cygnvs.com/
+- type: SecurityTxt
+  url: well-known/cygnvs-security.txt
+- type: WellKnown
+  url: well-known/cygnvs-well-known.yml
+- type: VulnerabilityDisclosure
+  url: security/cygnvs-vulnerability-disclosure.yml
+- type: Security
+  url: https://cygnvs.com/.well-known/security.txt
+- type: DomainSecurity
+  url: security/cygnvs-domain-security.yml
+- type: LLMsTxt
+  url: llms/cygnvs-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

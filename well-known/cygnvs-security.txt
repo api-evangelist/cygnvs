@@ -1,0 +1,10 @@
+# Please report any security vulnerabilities or concerns to us via the contact method(s) below.
+# Please do not include any sensitive information in unencrypted messages. Our PGP key is below
+
+Contact: mailto:security@cygnvs.com
+Expires: 2026-12-30T00:00:00.000Z
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/53F45C0B79B4460C4A84C1E32D64487DDA210671
+Preferred-Languages: en
+
+
+# Please see https://securitytxt.org/ for details of the specification of this file

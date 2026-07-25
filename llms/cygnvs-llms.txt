@@ -1,0 +1,27 @@
+# CYGNVS
+
+> CYGNVS ("CYber GuidaNce Virtual Space") is a Silicon Valley SaaS company that operates an out-of-band command center for cyber crisis preparedness and incident response. The platform runs independently of an organization's corporate infrastructure so response teams can coordinate securely — preserving legal privilege and chain of custody — even when internal systems are compromised. CYGNVS bundles guided playbooks, tabletop exercises, regulated-response execution, and CISO personal-liability insurance underwritten by AIG. Founded 2020 by Arvind Parthasarathi; $55M Series A led by Andreessen Horowitz (a16z) in January 2023. CYGNVS exposes no public developer API.
+
+## Company
+- [Website](https://cygnvs.com/): Out-of-band command center for cyber resilience.
+- [Pricing](https://cygnvs.com/pricing/): Subscription tiers (incl. Premium/Elite with liability insurance).
+- [Request a demo](https://cygnvs.com/request-a-demo): Enterprise onboarding starts with a demo request.
+- [Login](https://cygnvs.net/signIn.html): Out-of-band application sign-in (regional domains).
+
+## Support & Status
+- [Help Center](https://helpdesk.cygnvs.com/): Jira Service Management customer help desk.
+- [Status](https://status.cygnvs.com/): Atlassian Statuspage for platform availability.
+
+## Trust & Security
+- [Trust Center](https://trust.cygnvs.com/): TrustShare trust center (SOC 2 Type 2, ISO 27001).
+- [security.txt](https://cygnvs.com/.well-known/security.txt): RFC 9116 disclosure contact (security@cygnvs.com).
+
+## Resources
+- [Resources & Insights](https://www.cygnvs.com/resources): Blog, guides, and incident-response insights.
+- [Terms](https://cygnvs.com/terms)
+- [Privacy Policy](https://cygnvs.com/privacy)
+
+## Notes
+- No public API, OpenAPI/GraphQL developer portal, SDKs, or CLI are published. The
+  product is delivered as a secured out-of-band web/iOS/Android application; a GraphQL
+  API exists internally but is not publicly documented.

@@ -64,6 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CYGNVS is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+CYGNVS (an acronym for "CYber GuidaNce Virtual Space") is a Silicon Valley SaaS company that operates an out-of-band command center for cyber crisis preparedness and incident response. The platform runs independently of an organization's corporate infrastructure so that response teams — security, legal, executives, insurers, and external stakeholders — can coordinate securely even when internal systems are compromised or down, preserving legal privilege and chain of custody. CYGNVS provides guided playbooks, tabletop exercises, regulated-response execution with regulatory reporting templates across many jurisdictions, and bundles CISO personal-liability insurance underwritten by AIG. Founded in 2020 by Arvind Parthasarathi, the company raised a $55M Series A led by Andreessen Horowitz in January 2023. This API Evangelist profile was enriched from public surfaces; CYGNVS exposes no public developer API — the application is delivered as a secured out-of-band product across regional domains.
 
-Backed by: a16z
+**Areas:** Company · Cybersecurity · Incident Response · Cyber Crisis Management · Security · Governance Risk Compliance · Software-as-a-Service · Business
+
+## CYGNVS on APIs.io
+
+Everything profiled for CYGNVS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cygnvs/](https://apis.io/providers/cygnvs/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cygnvs Domain Security](https://apis.io/security/cygnvs/cygnvs-domain-security/)
+- [Cygnvs Trust Center](https://apis.io/security/cygnvs/cygnvs-trust-center/)
+- [Cygnvs Vulnerability Disclosure](https://apis.io/security/cygnvs/cygnvs-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cygnvs.com/)
+- [Pricing](https://cygnvs.com/pricing/)
+- [Sign up](https://cygnvs.com/request-a-demo)
+- [Support](https://helpdesk.cygnvs.com/)
+- [Blog](https://www.cygnvs.com/resources)
+- [Security](https://cygnvs.com/.well-known/security.txt)
+- [Compliance](https://trust.cygnvs.com/)
+- [Trust centre](https://trust.cygnvs.com/)
+- [Terms of service](https://cygnvs.com/terms)
+- [Privacy policy](https://cygnvs.com/privacy)
+- [Status](https://status.cygnvs.com/)
+
+## API Evangelist rating
+
+**Kin Score 20.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 44.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cygnvs/](https://apis.io/providers/cygnvs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CYGNVS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cygnvs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
